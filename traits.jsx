@@ -1,133 +1,153 @@
+import image1 from './GoatdTraits/1.png';
+import image2 from './GoatdTraits/2.png';
+import image100 from './GoatdTraits/100.png';
+import image101 from './GoatdTraits/101.png';
+import image102 from './GoatdTraits/102.png';
+import image103 from './GoatdTraits/103.png';
+import image104 from './GoatdTraits/104.png';
+import image105 from './GoatdTraits/105.png';
+import image200 from './GoatdTraits/200.png';
+import image201 from './GoatdTraits/201.png';
+import image202 from './GoatdTraits/202.png';
+import image300 from './GoatdTraits/300.png';
+import image301 from './GoatdTraits/301.png';
+import image302 from './GoatdTraits/302.png';
+import image303 from './GoatdTraits/303.png';
+import image400 from './GoatdTraits/400.png';
+import image401 from './GoatdTraits/401.png';
+import image600 from './GoatdTraits/600.png';
+import image601 from './GoatdTraits/601.png';
+
 const traits = [
     {
       id: 1,
-      image: './GoatdTraits/1.png',
+      image: image1,
       traitName: 'Hell Fire',
       traitType: 'Background',
       rarity: 'Legendary'
     },
     {
         id: 2,
-        image: './GoatdTraits/2.png',
+        image: image2,
         traitName: 'Universe',
         traitType: 'Background',
-        rarity: ''
+        rarity: 'Rare'
       },
       {
-        id: 3,
-        image: './GoatdTraits/100.png',
+        id: 100,
+        image: image100,
         traitName: 'Devil',
         traitType: 'Body',
         rarity: 'Legendary'
       },
       {
-        id: 4,
-        image: './GoatdTraits/101.png',
+        id: 101,
+        image: image101,
         traitName: 'Solid Gold',
         traitType: 'Body',
         rarity: 'Rare'
       },
       {
-        id: 5,
-        image: './GoatdTraits/102.png',
+        id: 102,
+        image: image102,
         traitName: 'Army Fatigues',
         traitType: 'Body',
         rarity: 'Rare'
       },
       {
-        id: 6,
-        image: './GoatdTraits/103.png',
+        id: 103,
+        image: image103,
         traitName: 'Victor Von Doom',
         traitType: 'Body',
         rarity: 'Rare'
       },
       {
-        id: 7,
-        image: './GoatdTraits/104.png',
+        id: 104,
+        image: image104,
         traitName: 'Jumper',
         traitType: 'Body',
         rarity: 'Rare'
       },
       {
-        id: 8,
-        image: './GoatdTraits/105.png',
+        id: 105,
+        image: image105,
         traitName: 'Kalasiris',
         traitType: 'Body',
         rarity: 'Rare'
       },
       {
-        id: 9,
-        image: './GoatdTraits/200.png',
+        id: 200,
+        image: image200,
         traitName: 'Solid Silver',
         traitType: 'Head',
         rarity: 'Rare'
       },
       {
-        id: 10,
-        image: './GoatdTraits/201.png',
+        id: 201,
+        image: image201,
         traitName: 'Solid Gold',
         traitType: 'Head',
         rarity: 'Legendary'
       },
       {
-        id: 11,
-        image: './GoatdTraits/202.png',
+        id: 202,
+        image: image202,
         traitName: 'Devil',
         traitType: 'Head',
         rarity: 'Rare'
       },
       {
-        id: 12,
-        image: './GoatdTraits/300.png',
+        id: 300,
+        image: image300,
         traitName: '3D',
         traitType: 'Eyes',
         rarity: 'Rare'
       },
       {
-        id: 13,
-        image: './GoatdTraits/301.png',
+        id: 301,
+        image: image301,
         traitName: 'Diamond',
         traitType: 'Eyes',
         rarity: 'Rare'
       },
       {
-        id: 14,
-        image: './GoatdTraits/302.png',
+        id: 302,
+        image: image302,
         traitName: 'White',
         traitType: 'Eyes',
         rarity: 'Rare'
       },
       {
-        id: 15,
-        image: './GoatdTraits/303.png',
+        id: 303,
+        image: image303,
         traitName: 'Night Vision',
         traitType: 'Eyes',
         rarity: 'Rare'
       },
       {
-        id: 16,
-        image: './GoatdTraits/400.png',
+        id: 400,
+        image: image400,
         traitName: 'Fangs',
         traitType: 'Mouth',
         rarity: 'Rare'
       },
       {
-        id: 17,
-        image: './GoatdTraits/401.png',
+        id: 401,
+        image: image401,
         traitName: '420',
         traitType: 'Mouth',
         rarity: 'Rare'
       },
       {
-        id: 18,
-        image: './GoatdTraits/600.png',
+        id: 600,
+        image: image600,
         traitName: 'Lucifer',
         traitType: 'Headwear',
         rarity: 'Rare'
       },
       {
-        id: 19,
-        image: './GoatdTraits/601.png',
+        id: 601,
+        image: image601,
         traitName: 'Devil Fire',
         traitType: 'Headwear',
         rarity: 'Rare'
