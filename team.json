@@ -1,0 +1,51 @@
+{
+    "1":{
+        "id":"1",
+        "displayName":"Zubin",
+        "role":"Front End Dev",
+        "twitterLink":"https://twitter.com/zmadon",
+        "image":"imageZubin"
+    },
+    "2":{
+        "id":"2",
+        "displayName":"Xrpant",
+        "role":"Smart Contract Dev",
+        "twitterLink":"https://twitter.com/xrpant",
+        "image":"imageXrpant"
+    },
+    "3":{
+        "id":"3",
+        "displayName":"Minifridge",
+        "role":"Smart Contract Dev",
+        "twitterLink":"https://twitter.com/0x_minifridge",
+        "image":"imageMinifridge"
+    },
+    "4":{
+        "id":"4",
+        "displayName":"Junk.avax",
+        "role":"Creator -- Dev in training",
+        "twitterLink":"https://twitter.com/cryptojunkv1",
+        "image":"imageJunk"
+    },
+    "5":{
+        "id":"5",
+        "displayName":"Soap.avax",
+        "role":"Community Mod",
+        "twitterLink":"https://twitter.com/s04p_",
+        "image":"imageSoap"
+    },
+    "6":{
+        "id":"6",
+        "displayName":"Prophet Succ",
+        "role":"Community Mod",
+        "twitterLink":"https://twitter.com/prophetsucc",
+        "image":"imageProphetSucc"
+    },
+    "7":{
+        "id":"7",
+        "displayName":"Teewhy",
+        "role":"Artist",
+        "twitterLink":"https://twitter.com/teewhy",
+        "image":"imageTeewhy"
+    }
+}
