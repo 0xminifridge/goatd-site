@@ -14,6 +14,83 @@ const traits = [
         rarity: 'Rare'
       },
       {
+        id: 3,
+        image: 'https://traits.s3.filebase.com/3.png',
+        traitName: 'Slate',
+        traitType: 'Background',
+        rarity: 'Common'
+      },
+      {
+        id: 4,
+        image: 'https://traits.s3.filebase.com/4.png',
+        traitName: 'Bright',
+        traitType: 'Background',
+        rarity: 'Common'
+      },
+      {
+        id: 5,
+        image: 'https://traits.s3.filebase.com/5.png',
+        traitName: 'Hot',
+        traitType: 'Background',
+        rarity: 'Common'
+      },
+      {
+        id: 6,
+        image: 'https://traits.s3.filebase.com/6.png',
+        traitName: 'Purple',
+        traitType: 'Background',
+        rarity: 'Common'
+      },
+      {
+        id: 7,
+        image: 'https://traits.s3.filebase.com/7.png',
+        traitName: 'Vibrant Blue',
+        traitType: 'Background',
+        rarity: 'Common'
+      },
+      {
+        id: 8,
+        image: 'https://traits.s3.filebase.com/8.png',
+        traitName: 'Sea',
+        traitType: 'Background',
+        rarity: 'Common'
+      },
+      {
+        id: 9,
+        image: 'https://traits.s3.filebase.com/9.png',
+        traitName: 'Green',
+        traitType: 'Background',
+        rarity: 'Common'
+      },
+      {
+        id: 10,
+        image: 'https://traits.s3.filebase.com/10.png',
+        traitName: 'Psychedelic',
+        traitType: 'Background',
+        rarity: 'Legendary'
+      },
+      {
+        id: 11,
+        image: 'https://traits.s3.filebase.com/11.png',
+        traitName: '11000101',
+        traitType: 'Background',
+        rarity: 'Legendary'
+      },
+      {
+        id: 12,
+        image: 'https://traits.s3.filebase.com/12.png',
+        traitName: 'Itsa Mee',
+        traitType: 'Background',
+        rarity: 'Legendary'
+      },
+      {
+        id: 13,
+        image: 'https://traits.s3.filebase.com/13.png',
+        traitName: 'Another Brick',
+        traitType: 'Background',
+        rarity: 'Rare'
+      },
+      {
         id: 100,
         image: 'https://traits.s3.filebase.com/100.png',
         traitName: 'Devil',
